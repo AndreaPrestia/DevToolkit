@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0n73f3u7ciX8rWIOIC9hYY4tyh1SdxrY99b+DLSIy7IsgmEPM+YWnPi4yQQx9iXe3OIf8hkxJqnYz5jE5VwTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\DevToolkit\\DevToolkit\\DevToolkit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

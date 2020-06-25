@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\bin\Debug\netcoreapp3.1\DevToolkit.deps.json
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\bin\Debug\netcoreapp3.1\DevToolkit.dll
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\bin\Debug\netcoreapp3.1\DevToolkit.pdb
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\obj\Debug\netcoreapp3.1\DevToolkit.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\obj\Debug\netcoreapp3.1\DevToolkit.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\obj\Debug\netcoreapp3.1\DevToolkit.AssemblyInfo.cs
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\obj\Debug\netcoreapp3.1\DevToolkit.dll
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\obj\Debug\netcoreapp3.1\DevToolkit.pdb
+C:\Users\andre\source\repos\DevToolkit\DevToolkit\obj\Debug\netcoreapp3.1\DevToolkit.csproj.CoreCompileInputs.cache
